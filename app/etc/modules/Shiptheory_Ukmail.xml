@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Shiptheory_Ukmail>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Shiptheory_Ukmail>
+    </modules>
+</config>
