@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Shiptheory_Ukmail",
+    "name": "OpenMageModuleFostering\/Shiptheory_Ukmail",
     "type": "magento-module",
     "license": "Commercial",
     "homepage": "",
     "description": "UK Mail iConsign Label API Integration from Shiptheory",
     "authors": [
-    {
-        "name": "Shiptheory",
-        "email": "jm@shiptheory.com"
-    }
-],
+        {
+            "name": "Shiptheory",
+            "email": "jm@shiptheory.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
